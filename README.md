@@ -5,7 +5,7 @@ A cross-platform application built to visualize the classic **Fizz Buzz** algori
 <img width="25%" alt="Screenshot_20260303-185729" src="https://github.com/user-attachments/assets/06644d62-5a03-46a3-8d51-5f56541fcbc0" />
 <img width="25%" alt="Screenshot_20260303-185701" src="https://github.com/user-attachments/assets/2ee918e8-765e-471e-b331-45dc656cd15d" />
 </p>
-**Try it out here:** [Live Demo](https://itjosue.github.io/fizz_buzz/)
+
 
 ## Features
 
